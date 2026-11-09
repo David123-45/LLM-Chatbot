@@ -1,0 +1,70 @@
+2026-11-02 20:11:44,606 [INFO] No device provided, using cpu
+2026-11-02 20:11:45,583 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-11-02 20:11:45,602 [INFO] Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-11-02 20:11:46,461 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-11-02 20:11:46,729 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-11-02 20:11:47,092 [INFO] HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-11-02 20:11:47,093 [WARNING] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 20:11:47,113 [INFO] Database initialised at chat.db
+2026-11-02 20:11:47,130 [ERROR] Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-11-02 20:23:04,390 [INFO] No device provided, using cpu
+2026-11-02 20:23:04,981 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-11-02 20:23:04,996 [INFO] Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-11-02 20:23:05,855 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-11-02 20:23:06,116 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-11-02 20:23:06,443 [INFO] HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-11-02 20:23:06,444 [WARNING] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 20:23:06,454 [INFO] Database initialised at chat.db
+2026-11-02 20:23:06,465 [ERROR] Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-11-02 20:24:26,482 [INFO] No device provided, using cpu
+2026-11-02 20:24:27,076 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-11-02 20:24:27,084 [INFO] Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-11-02 20:24:27,659 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-11-02 20:24:27,912 [INFO] HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-11-02 20:24:28,209 [INFO] HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-11-02 20:24:28,210 [WARNING] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 20:24:28,217 [INFO] Database initialised at chat.db
+2026-11-03 13:21:08,104 [INFO] Deleted conversation 301b7134-a7eb-4675-8a22-b24b288b6050
+2026-11-03 13:21:08,383 [INFO] Deleted conversation 1ff9fac5-474b-434b-ab93-4ac9e0e6a034
+2026-11-03 13:21:09,070 [INFO] Deleted conversation 56a15f29-30f1-4f69-ab87-c2e7ce6b461d
+2026-11-03 13:21:55,180 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 13:22:04,710 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 13:22:37,213 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 13:22:41,324 [INFO] Extracted 1 facts for conversation fc540d5c-6e7d-4c36-995a-c706d9091564
+2026-11-03 13:22:41,327 [INFO] Summarized conversation fc540d5c-6e7d-4c36-995a-c706d9091564
+2026-11-03 13:22:41,392 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 13:22:51,818 [INFO] Extracted 3 facts for conversation fc540d5c-6e7d-4c36-995a-c706d9091564
+2026-11-03 13:22:51,829 [INFO] Summarized conversation fc540d5c-6e7d-4c36-995a-c706d9091564
+2026-11-03 13:22:57,503 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 13:23:06,286 [INFO] Chat [conv=67d22b8a-1651-447b-819f-d48b3c4c8df7] responded in 43.18s | facts=1 memories=2 doc_chunks=0
+2026-11-03 19:08:19,270 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:08:20,977 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:08:21,920 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:08:32,353 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:08:32,545 [INFO] Extracted 0 facts for conversation 67d22b8a-1651-447b-819f-d48b3c4c8df7
+2026-11-03 19:08:32,546 [INFO] Summarized conversation 67d22b8a-1651-447b-819f-d48b3c4c8df7
+2026-11-03 19:08:32,734 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:08:32,980 [INFO] Extracted 0 facts for conversation 67d22b8a-1651-447b-819f-d48b3c4c8df7
+2026-11-03 19:08:33,012 [INFO] Summarized conversation 67d22b8a-1651-447b-819f-d48b3c4c8df7
+2026-11-03 19:08:33,252 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:08:33,412 [INFO] Extracted 0 facts for conversation 67d22b8a-1651-447b-819f-d48b3c4c8df7
+2026-11-03 19:08:33,413 [INFO] Summarized conversation 67d22b8a-1651-447b-819f-d48b3c4c8df7
+2026-11-03 19:08:39,437 [INFO] Deleted conversation e50f9297-fe7b-436f-b7e6-6358719517be
+2026-11-03 19:19:27,171 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:20:13,483 [INFO] Chat [conv=909f3d44-3448-4d1d-b1b9-2f5bab13975e] responded in 57.43s | facts=4 memories=2 doc_chunks=0
+2026-11-03 19:22:39,678 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:22:55,625 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:22:58,478 [INFO] Extracted 1 facts for conversation 909f3d44-3448-4d1d-b1b9-2f5bab13975e
+2026-11-03 19:22:58,484 [INFO] Summarized conversation 909f3d44-3448-4d1d-b1b9-2f5bab13975e
+2026-11-03 19:23:07,935 [INFO] Deleted conversation 8295e47a-07ad-4c24-95c1-bfbaa58f7f5a
+2026-11-03 19:23:25,490 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-11-03 19:24:36,637 [INFO] Chat [conv=6cf481bd-dd18-4ba1-ab61-867a33dacf2b] responded in 77.31s | facts=4 memories=2 doc_chunks=0
+2026-11-03 19:28:18,609 [INFO] Deleted conversation 6cf481bd-dd18-4ba1-ab61-867a33dacf2b
